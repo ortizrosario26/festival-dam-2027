@@ -1,1 +1,3 @@
 # Archivos que Git debe ignorar (se completará durante la práctica)
+*.tmp
+*.log
