@@ -11,3 +11,4 @@ Web estática de un festival de música ficticio, creada para la Práctica 2 de 
 ## Web publicada
 
 https://ortizrosario26.github.io/festival-dam-2027/
+Proyecto desarrollado para la Práctica 2 de Entornos de Desarrollo.
