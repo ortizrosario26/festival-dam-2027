@@ -10,4 +10,4 @@ Web estática de un festival de música ficticio, creada para la Práctica 2 de 
 
 ## Web publicada
 
-https://USUARIO.github.io/festival-dam-2027/
+https://ortizrosario26.github.io/festival-dam-2027/
